@@ -41,3 +41,11 @@
   <a href="https://github.com/Methsadee99">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methsadee99&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ff69b4" alt="Methsadee99" /></p>
 
+  ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+

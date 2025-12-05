@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethmi Methsadee Thissera</h1>
-<h3 align="center">A Information Technology undergraduate passionate about Quality Assurance Engineer</h3>
+<h3 align="center">A Information Technology undergraduate passionate about Software Engineer</h3>
 
 ---
 
